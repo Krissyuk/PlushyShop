@@ -1,4 +1,4 @@
-﻿namespace PlushyShop.Domain
+﻿namespace PlushyShop.Domain.Entities
 {
     public abstract class Entity<TPrimaryKey>
     {
