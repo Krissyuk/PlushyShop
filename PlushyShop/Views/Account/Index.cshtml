@@ -67,7 +67,7 @@
                         <div class="tab-pane fade @(!isVisibleRegisterTab ? "show active":"")" id="pills-login" role="tabpanel">
                             @{
                                 ViewData.TemplateInfo.HtmlFieldPrefix = "r";
-                                await Html.RenderPartialAsync("_Register", Model?.LoginViewModel);
+                                await Html.RenderPartialAsync("_Register", Model?.RegisterViewModel);
                             }
                         </div>
                     </div>

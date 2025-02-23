@@ -15,5 +15,11 @@
             Password = password;
             Gender = gender;
         }
+
+        public User(string login, string password)
+        {
+            Login = login;
+            Password = password;
+        }
     }
 }
