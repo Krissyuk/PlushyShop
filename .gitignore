@@ -364,3 +364,5 @@ FodyWeavers.xsd
 /PlushyShop/PlushyShop.csproj
 /PlushyShop.Domain/PlushyShop.Domain.csproj
 /PlushyShop.sln
+/PlushyShop/wwwroot
+/PlushyShop/libman.json
